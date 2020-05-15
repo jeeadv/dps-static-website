@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/dps-static-website/static/css/main.21b38ea8.chunk.css",
-    "main.js": "/dps-static-website/static/js/main.607928dd.chunk.js",
-    "main.js.map": "/dps-static-website/static/js/main.607928dd.chunk.js.map",
+    "main.css": "/dps-static-website/static/css/main.868a2dfc.chunk.css",
+    "main.js": "/dps-static-website/static/js/main.580347c1.chunk.js",
+    "main.js.map": "/dps-static-website/static/js/main.580347c1.chunk.js.map",
     "runtime-main.js": "/dps-static-website/static/js/runtime-main.cd509f97.js",
     "runtime-main.js.map": "/dps-static-website/static/js/runtime-main.cd509f97.js.map",
-    "static/js/2.d1ff8164.chunk.js": "/dps-static-website/static/js/2.d1ff8164.chunk.js",
-    "static/js/2.d1ff8164.chunk.js.map": "/dps-static-website/static/js/2.d1ff8164.chunk.js.map",
+    "static/js/2.bb2285c1.chunk.js": "/dps-static-website/static/js/2.bb2285c1.chunk.js",
+    "static/js/2.bb2285c1.chunk.js.map": "/dps-static-website/static/js/2.bb2285c1.chunk.js.map",
     "index.html": "/dps-static-website/index.html",
-    "precache-manifest.6d8727963f9f7df6abd32ee4cc437914.js": "/dps-static-website/precache-manifest.6d8727963f9f7df6abd32ee4cc437914.js",
+    "precache-manifest.b71dbe9122abd2e75185b62a2b377936.js": "/dps-static-website/precache-manifest.b71dbe9122abd2e75185b62a2b377936.js",
     "service-worker.js": "/dps-static-website/service-worker.js",
-    "static/css/main.21b38ea8.chunk.css.map": "/dps-static-website/static/css/main.21b38ea8.chunk.css.map",
-    "static/js/2.d1ff8164.chunk.js.LICENSE.txt": "/dps-static-website/static/js/2.d1ff8164.chunk.js.LICENSE.txt",
+    "static/css/main.868a2dfc.chunk.css.map": "/dps-static-website/static/css/main.868a2dfc.chunk.css.map",
+    "static/js/2.bb2285c1.chunk.js.LICENSE.txt": "/dps-static-website/static/js/2.bb2285c1.chunk.js.LICENSE.txt",
+    "static/media/schoolLogo.jpeg": "/dps-static-website/static/media/schoolLogo.61a4bc37.jpeg",
     "static/media/vicePrincipalImage.jpeg": "/dps-static-website/static/media/vicePrincipalImage.387362ea.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.cd509f97.js",
-    "static/js/2.d1ff8164.chunk.js",
-    "static/css/main.21b38ea8.chunk.css",
-    "static/js/main.607928dd.chunk.js"
+    "static/js/2.bb2285c1.chunk.js",
+    "static/css/main.868a2dfc.chunk.css",
+    "static/js/main.580347c1.chunk.js"
   ]
 }
