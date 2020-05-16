@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/dps-static-website/static/css/main.51518173.chunk.css",
-    "main.js": "/dps-static-website/static/js/main.87944b28.chunk.js",
-    "main.js.map": "/dps-static-website/static/js/main.87944b28.chunk.js.map",
+    "main.js": "/dps-static-website/static/js/main.f7b8316e.chunk.js",
+    "main.js.map": "/dps-static-website/static/js/main.f7b8316e.chunk.js.map",
     "runtime-main.js": "/dps-static-website/static/js/runtime-main.cd509f97.js",
     "runtime-main.js.map": "/dps-static-website/static/js/runtime-main.cd509f97.js.map",
     "static/js/2.bb2285c1.chunk.js": "/dps-static-website/static/js/2.bb2285c1.chunk.js",
     "static/js/2.bb2285c1.chunk.js.map": "/dps-static-website/static/js/2.bb2285c1.chunk.js.map",
     "index.html": "/dps-static-website/index.html",
-    "precache-manifest.4f6edb713afce5d662581a477f6e785d.js": "/dps-static-website/precache-manifest.4f6edb713afce5d662581a477f6e785d.js",
+    "precache-manifest.bfb71908028688711db36e2f13ffd752.js": "/dps-static-website/precache-manifest.bfb71908028688711db36e2f13ffd752.js",
     "service-worker.js": "/dps-static-website/service-worker.js",
     "static/css/main.51518173.chunk.css.map": "/dps-static-website/static/css/main.51518173.chunk.css.map",
     "static/js/2.bb2285c1.chunk.js.LICENSE.txt": "/dps-static-website/static/js/2.bb2285c1.chunk.js.LICENSE.txt",
     "static/media/schoolLogo.jpeg": "/dps-static-website/static/media/schoolLogo.61a4bc37.jpeg",
-    "static/media/vicePrincipalImage.jpeg": "/dps-static-website/static/media/vicePrincipalImage.387362ea.jpeg"
+    "static/media/vicePrincipalImage.jpg": "/dps-static-website/static/media/vicePrincipalImage.4e94f03d.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cd509f97.js",
     "static/js/2.bb2285c1.chunk.js",
     "static/css/main.51518173.chunk.css",
-    "static/js/main.87944b28.chunk.js"
+    "static/js/main.f7b8316e.chunk.js"
   ]
 }

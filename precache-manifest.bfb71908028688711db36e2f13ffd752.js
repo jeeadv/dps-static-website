@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6582c37b4229cfa36adfcf9b481c35a8",
+    "revision": "b050d4bbb882d462fc90f7053b43d262",
     "url": "/dps-static-website/index.html"
   },
   {
-    "revision": "400b27a31463f835bede",
+    "revision": "ed72ad9a5e3ed4417948",
     "url": "/dps-static-website/static/css/main.51518173.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dps-static-website/static/js/2.bb2285c1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "400b27a31463f835bede",
-    "url": "/dps-static-website/static/js/main.87944b28.chunk.js"
+    "revision": "ed72ad9a5e3ed4417948",
+    "url": "/dps-static-website/static/js/main.f7b8316e.chunk.js"
   },
   {
     "revision": "b5fe70ef45d42043263c",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dps-static-website/static/media/schoolLogo.61a4bc37.jpeg"
   },
   {
-    "revision": "387362ea6d4b3d28742888eb8555d731",
-    "url": "/dps-static-website/static/media/vicePrincipalImage.387362ea.jpeg"
+    "revision": "4e94f03d89e282762f8411ba77a04188",
+    "url": "/dps-static-website/static/media/vicePrincipalImage.4e94f03d.jpg"
   }
 ]);
